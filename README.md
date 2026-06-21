@@ -1,4 +1,4 @@
-Project 6: Neural Network Memorization with Random Labels
+**Project 6: Neural Network Memorization with Random Labels**
 
 Overview
 This notebook demonstrates a key finding in deep learning: the ability of large neural networks to memorize completely random data while still achieving near-perfect training accuracy. This phenomenon challenges traditional statistical learning theory and highlights the unique generalization properties of overparameterized models.
